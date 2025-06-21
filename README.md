@@ -1,4 +1,4 @@
-# AI Agent API
+# 4SalesAI Agent API
 
 A production-ready AI Agent API with advanced RAG (Retrieval-Augmented Generation) capabilities, built with Node.js, TypeScript, MongoDB Atlas, Redis, and Google Gemini integration. This API provides intelligent question-answering based on trained knowledge from various sources including documents, websites, YouTube videos, audio, and video files.
 
@@ -45,16 +45,22 @@ A production-ready AI Agent API with advanced RAG (Retrieval-Augmented Generatio
 
 ## 📋 Table of Contents
 
-- [Installation](#installation)
-- [Configuration](#configuration)
-- [API Endpoints](#api-endpoints)
-- [Technical Implementation](#technical-implementation)
-- [Data Models](#data-models)
-- [Security Features](#security-features)
-- [Performance Optimization](#performance-optimization)
-- [Deployment](#deployment)
-- [Testing](#testing)
-- [Contributing](#contributing)
+- [🚀 Features](#-features)
+- [🛠️ Installation](#️-installation)
+- [⚙️ Configuration](#️-configuration)
+- [📡 API Endpoints](#-api-endpoints)
+- [🔧 Technical Implementation](#-technical-implementation)
+- [🗄️ Data Models](#️-data-models)
+- [🔒 Security Features](#-security-features)
+- [⚡ Performance Optimization](#-performance-optimization)
+- [🚀 Deployment](#-deployment)
+- [🧪 Testing](#-testing)
+- [📊 Monitoring & Analytics](#-monitoring--analytics)
+- [🔧 Development](#-development)
+- [🤝 Contributing](#-contributing)
+- [📄 License](#-license)
+- [🆘 Support](#-support)
+- [🔄 Changelog](#-changelog)
 
 ## 🛠️ Installation
 
